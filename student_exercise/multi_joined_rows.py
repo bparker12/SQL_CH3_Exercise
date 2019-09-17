@@ -5,7 +5,7 @@ import sqlite3
 class Exercise():
 
     def __init__(self):
-        self.db_path = "/Users/stuff/workspace/python/SQL/Ch3_StudentExercise3/student_exercise/studentexercises.db"
+            self.db_path = "/Users/stuff/workspace/python/SQL/Ch3_StudentExercise3/student_exercise/studentexercises.db"
 
 
     def multi_join(self):
